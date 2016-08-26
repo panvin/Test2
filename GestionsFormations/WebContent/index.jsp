@@ -12,7 +12,7 @@
 	<font color="red"><%=new Date()%></font> et vous etes forme pour la
 	goire de Sparte!!!!
 
-	<form method="post" action="/MaServlet">
+	<form method="post" action="MaServlet">
 		<label for="nom">Nom : </label> <input type="text" name="nom" id="nom" /><br>
 		<label for="prenom">Prenom : </label> <input type="text" name="prenom" id="prenom" /><br>
 		<label for="email">E-mail : </label> <input type="text" name="email" id="email" /><br>
