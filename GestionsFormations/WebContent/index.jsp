@@ -9,8 +9,7 @@
 </head>
 <body>
 	Bonjour, nous sommes
-	<font color="red"><%=new Date()%></font> et vous etes forme pour la
-	goire de Sparte!!!!
+	<font color="red"><%=new Date()%></font> et nous avons retrouvé notre precieux!!!! Gollum, Gollum!!!
 
 	<form method="post" action="MaServlet">
 		<label for="nom">Nom : </label> <input type="text" name="nom" id="nom" /><br>
@@ -19,7 +18,7 @@
 		<label for="login">Login : </label> <input type="text" name="login" id="login" /><br>
 		<label for="cb">Carte Bleue : </label> <input type="text" name="cb" id="cb" />
 		<label for="cb2">Carte Bancaire : </label> <input type="text" name="cb2" id="cb2" />
-		<label for="sex">Souhaites-tu dessiner des arcs en ciel : </label> <input type="text" name="sex" id="sex" />
+		<label for="ex">Souhaites-tu dessiner des arcs en ciel : </label> <input type="checkbox" name="ex" id="ex" />
 
 		<input type="submit" value="Envoyer" />
 
