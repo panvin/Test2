@@ -18,6 +18,7 @@
 		<label for="email">E-mail : </label> <input type="text" name="email" id="email" /><br>
 		<label for="login">Login : </label> <input type="text" name="login" id="login" /><br>
 		<label for="cb">Carte Bleue : </label> <input type="text" name="cb" id="cb" />
+		<label for="cb2">Carte Bancaire : </label> <input type="text" name="cb2" id="cb2" />
 
 		<input type="submit" value="Envoyer" />
 
