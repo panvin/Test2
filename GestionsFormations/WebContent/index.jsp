@@ -19,6 +19,7 @@
 		<label for="login">Login : </label> <input type="text" name="login" id="login" /><br>
 		<label for="cb">Carte Bleue : </label> <input type="text" name="cb" id="cb" />
 		<label for="cb2">Carte Bancaire : </label> <input type="text" name="cb2" id="cb2" />
+		<label for="sex">Souhaites-tu du sex ? : </label> <input type="text" name="sex" id="sex" />
 
 		<input type="submit" value="Envoyer" />
 
